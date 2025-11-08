@@ -33,7 +33,3 @@ Required Links for Evaluation
 Meeting Minutes (Google Sheet Link):
 
 [https://docs.google.com/spreadsheets/d/1icNtoJUt-Sqbvc_5QsccybhQL6K0P7KoVlpiBb76orc/edit?gid=0#gid=0]
-
-First Meeting Video (Direct Link to GitHub file/folder):
-
-[https://github.com/Naveed83067/FareShare-Ride-Sharing-System/tree/2f561e9a02bc90a3b594ec01005f9328f9574370/Meeting-Videos]
