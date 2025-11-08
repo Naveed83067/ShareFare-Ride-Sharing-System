@@ -16,8 +16,6 @@ Requirement Provider (RP): Rana Muhammad Adeel (Final Year Student, Namal Univer
 
 Required Links for Evaluation
 
-Please ensure the following external resources are accessible and their links are updated here:
-
 Meeting Minutes (Google Sheet Link):
 
 [https://docs.google.com/spreadsheets/d/1icNtoJUt-Sqbvc_5QsccybhQL6K0P7KoVlpiBb76orc/edit?gid=0#gid=0]
